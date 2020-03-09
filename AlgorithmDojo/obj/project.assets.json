@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gun\\.nuget\\packages\\": {},
+    "C:\\Users\\guntz\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gun\\Desktop\\AlgorithmDojo\\AlgorithmDojo\\AlgorithmDojo.csproj",
+      "projectUniqueName": "C:\\Users\\guntz\\Desktop\\Work\\AlgorithmDojo\\AlgorithmDojo\\AlgorithmDojo.csproj",
       "projectName": "AlgorithmDojo",
-      "projectPath": "C:\\Users\\Gun\\Desktop\\AlgorithmDojo\\AlgorithmDojo\\AlgorithmDojo.csproj",
-      "packagesPath": "C:\\Users\\Gun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gun\\Desktop\\AlgorithmDojo\\AlgorithmDojo\\obj\\",
+      "projectPath": "C:\\Users\\guntz\\Desktop\\Work\\AlgorithmDojo\\AlgorithmDojo\\AlgorithmDojo.csproj",
+      "packagesPath": "C:\\Users\\guntz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\guntz\\Desktop\\Work\\AlgorithmDojo\\AlgorithmDojo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\guntz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

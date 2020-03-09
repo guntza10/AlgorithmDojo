@@ -1,0 +1,11 @@
+C:\Users\guntz\Desktop\Work\AlgorithmDojo\AlgorithmDojo\bin\Debug\netcoreapp2.2\AlgorithmDojo.deps.json
+C:\Users\guntz\Desktop\Work\AlgorithmDojo\AlgorithmDojo\bin\Debug\netcoreapp2.2\AlgorithmDojo.runtimeconfig.json
+C:\Users\guntz\Desktop\Work\AlgorithmDojo\AlgorithmDojo\bin\Debug\netcoreapp2.2\AlgorithmDojo.runtimeconfig.dev.json
+C:\Users\guntz\Desktop\Work\AlgorithmDojo\AlgorithmDojo\bin\Debug\netcoreapp2.2\AlgorithmDojo.dll
+C:\Users\guntz\Desktop\Work\AlgorithmDojo\AlgorithmDojo\bin\Debug\netcoreapp2.2\AlgorithmDojo.pdb
+C:\Users\guntz\Desktop\Work\AlgorithmDojo\AlgorithmDojo\obj\Debug\netcoreapp2.2\AlgorithmDojo.csprojAssemblyReference.cache
+C:\Users\guntz\Desktop\Work\AlgorithmDojo\AlgorithmDojo\obj\Debug\netcoreapp2.2\AlgorithmDojo.csproj.CoreCompileInputs.cache
+C:\Users\guntz\Desktop\Work\AlgorithmDojo\AlgorithmDojo\obj\Debug\netcoreapp2.2\AlgorithmDojo.AssemblyInfoInputs.cache
+C:\Users\guntz\Desktop\Work\AlgorithmDojo\AlgorithmDojo\obj\Debug\netcoreapp2.2\AlgorithmDojo.AssemblyInfo.cs
+C:\Users\guntz\Desktop\Work\AlgorithmDojo\AlgorithmDojo\obj\Debug\netcoreapp2.2\AlgorithmDojo.dll
+C:\Users\guntz\Desktop\Work\AlgorithmDojo\AlgorithmDojo\obj\Debug\netcoreapp2.2\AlgorithmDojo.pdb
