@@ -34,7 +34,7 @@ namespace AlgorithmDojo
         public List<int> FindTwoSum()
         {
             var numberLst = listNumbers;
-            var listResult = numberLst.Where(it => listNumbers.Any(x => x + it == Target)).ToList();
+            var listResult = numberLst.Where(it => listNumbers.Any(x => x + it == Target && x != it)).ToList();
 
             var indexTwoSum = listResult.Select(it =>
              {
