@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace AlgorithmDojo
 {
-    class TwoSum
+    public class TwoSum
     {
         public int Target = 22;
         public int[] arrayNumbers = new int[] { 2, 7, 11, 15 };
